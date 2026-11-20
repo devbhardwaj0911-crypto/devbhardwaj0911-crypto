@@ -1,226 +1,158 @@
-<!-- ==================== HEADER BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=200&section=header&text=Dev%20Bhardwaj&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
-
+<!-- ==================== ANIMATED HEADER ==================== -->
 <div align="center">
-  
-  <!-- Typing SVG Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=220&section=header&text=Dev%20Bhardwaj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20MBA%20(Operations%20%26%20Marketing)&descAlignY=58&descSize=17" width="100%" />
+
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Business+Analyst;Requirements+%26+SDLC+Expert;Stakeholder+Management+Pro;Power+BI+%7C+SQL+%7C+Python+%7C+AI+Enthusiast;Advanced+Excel+%7C+Power+Query;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Data+Analyst+%40+Itsolutionwala+%7C+Gurugram%2C+India;SQL+(CTEs%2C+Joins)+%7C+Power+BI+%7C+DAX+%7C+Advanced+Excel;Automating+Workflows+with+n8n+%26+Python;Transforming+48%2C000%2B+Records+into+Actionable+KPIs" alt="Typing SVG" />
   </a>
 
-  <!-- Open to Work Badge -->
   <br/>
-  <img src="https://img.shields.io/badge/Open_to_Work-✓-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&color=0ea5e9" alt="Open to Work" />
-  
-  <!-- Profile Views & Followers -->
+
+  <!-- Quick Action Badges -->
+  <a href="https://www.linkedin.com/in/dev-bhardwaj-8b9597329">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:devbhardwaj0911@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-devbhardwaj0911%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=devbhardwaj0911-crypto&style=for-the-badge&color=0284c7&label=VIEWS" />
+</div>
+
+---
+
+<!-- ==================== EXECUTIVE SUMMARY & METRICS ==================== -->
+## 📊 Impact & Experience Snapshot
+
+> **Data Analyst & MBA Graduate (Operations & Marketing)** bridging business strategy and technical execution. Experienced in SQL querying, Power BI dashboarding, ETL workflows, and root-cause analysis across Agile teams.
+
+<div align="center">
+
+| 📈 **35% Faster Reporting** | 🗄️ **48,000+ Records Analyzed** | ⚙️ **40% Time Saved** | 🎯 **20% Efficiency Gain** |
+| :---: | :---: | :---: | :---: |
+| Built **8+ interactive Power BI dashboards** using DAX & Power Query at *Itsolutionwala* | Uncovered revenue & peak order trends across large SQL & Excel datasets | Automated repetitive operational tasks using **n8n** & Python workflows | Improved customer service closure TAT via Excel KPI tracking at *Pascal Switchcare* |
+
+</div>
+
+---
+
+<!-- ==================== LIVE REPOSITORIES (MATCHED TO PROFILE) ==================== -->
+## 🚀 Featured Repositories & Case Studies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Power BI Sales & Behaviour Dashboards</h3>
+      <p>Interactive BI dashboards featuring dynamic KPI cards, custom DAX measures, slicers, and customer segmentation models built on <b>48,000+ order records</b>.</p>
+      <p><code>Power BI</code> • <code>SQL (Joins, CTEs)</code> • <code>DAX</code> • <code>Power Query</code></p>
+      <a href="https://github.com/devbhardwaj0911-crypto/Power-Bi-sales-Dashboards">
+        <img src="https://img.shields.io/badge/Explore_Repo-0284c7?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Daily Workflow Automation (n8n & Python)</h3>
+      <p>End-to-end automated workflows engineered to eliminate repetitive manual operations, cutting task processing time by <b>40%</b> and boosting daily team productivity.</p>
+      <p><code>n8n</code> • <code>Python</code> • <code>SQLite/PostgreSQL</code> • <code>Workflow Automation</code></p>
+      <a href="https://github.com/devbhardwaj0911-crypto/Daily-workflow-">
+        <img src="https://img.shields.io/badge/Explore_Repo-0284c7?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📑 Dynamic Excel & Operational Reporting</h3>
+      <p>Self-updating operational KPI trackers and automated management reports powered by Pivot Tables, XLOOKUP, INDEX-MATCH, and dynamic conditional formatting.</p>
+      <p><code>Advanced Excel</code> • <code>Power Query</code> • <code>KPI Tracking</code> • <code>ETL</code></p>
+      <a href="https://github.com/devbhardwaj0911-crypto/Dynamic-Report-Projects">
+        <img src="https://img.shields.io/badge/Explore_Repo-0284c7?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 BRD & Requirement Documentation Automation</h3>
+      <p>Automated Business Requirement Document (BRD) generator combining structured Excel/SQL inputs with Python templating to streamline SDLC & stakeholder sign-offs.</p>
+      <p><code>Python</code> • <code>SDLC & Agile</code> • <code>Requirement Gathering</code> • <code>Automation</code></p>
+      <a href="https://github.com/devbhardwaj0911-crypto/BRD-Automation">
+        <img src="https://img.shields.io/badge/Explore_Repo-0284c7?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Live GitHub Pin Cards -->
+<div align="center">
+  <a href="https://github.com/devbhardwaj0911-crypto/Power-Bi-sales-Dashboards">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=Power-Bi-sales-Dashboards&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8" />
+  </a>
+  <a href="https://github.com/devbhardwaj0911-crypto/Daily-workflow-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=Daily-workflow-&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8" />
+  </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=devbhardwaj0911-crypto&style=flat-square&color=0ea5e9" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/devbhardwaj0911-crypto?style=flat-square&logo=github&color=06b6d4" alt="Followers" />
-  
+  <a href="https://github.com/devbhardwaj0911-crypto/Dynamic-Report-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=Dynamic-Report-Projects&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8" />
+  </a>
+  <a href="https://github.com/devbhardwaj0911-crypto/BRD-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=BRD-Automation&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8" />
+  </a>
 </div>
 
 ---
 
-<!-- ==================== WHO I AM (VISUAL VERSION) ==================== -->
-## 👨‍💻 Who I Am
+<!-- ==================== TECH STACK & EDUCATION ==================== -->
+## 🛠️ Technical Arsenal & Credentials
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>💻 Core Technical Stack</h3>
+      <p><b>Business Intelligence & Visualization</b><br/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+      </p>
+      <p><b>Databases, Querying & Automation</b><br/>
+        <img src="https://img.shields.io/badge/SQL_(Joins%2C_CTEs%2C_Subqueries)-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n_Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/ETL_&_Data_Modeling-0284c7?style=flat-square" />
+      </p>
+      <p><b>Business & Domain Competencies</b><br/>
+        <code>KPI Tracking</code> • <code>Root Cause Analysis</code> • <code>Stakeholder Management</code> • <code>SDLC & Agile</code>
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>🎓 Education & Certifications</h3>
+      <ul>
+        <li><b>MBA (Operations & Marketing)</b><br/>MDU University (2022–2024) | CGPA: 7.39</li>
+        <li><b>Bachelor of Arts</b><br/>Delhi University (2019–2022) | CGPA: 6.73</li>
+        <li><b>Generative AI Foundations</b><br/>Certified (September 2025)</li>
+        <li><b>NSQF Retail (Levels 1–4)</b><br/>NSS Project Management (July 2025)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+## 📈 GitHub Stats & Contribution Graph
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🎯 Role</h3>
-        <p><b>Business Analyst</b></p>
-        <br/>
-        <h3>📊 Tech Stack</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-          <br/>
-          <img src="https://img.shields.io/badge/PowerQuery-217346?style=flat-square&logo=microsoft&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python_AI-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SDLC-0052CC?style=flat-square&logo=atlassian&logoColor=white"/>
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🚀 Featured Projects</h3>
-        <p>
-          • Daily-workflow-<br/>
-          • BRD-Automation<br/>
-          • Power-Bi-sales-Dashboards<br/>
-          • Dynamic-Report-Projects
-        </p>
-        <br/>
-        <h3>💼 Status</h3>
-        <p>
-          <b>✅ Open to Work</b><br/>
-          <i>Business Analyst | Data Analytics | Process Automation</i>
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
-<!-- ==================== SKILLS CARDS ==================== -->
-## 🛠️ Core Competencies
-
-<div align="center">
-  
-  | Category | Skills |
-  |----------|--------|
-  | 📊 *Analytics* | Advanced Excel, Power BI, Power Query, SQL |
-  | 🤖 *Automation* | Python, AI Integration, Workflow Automation |
-  | 📋 *Methodologies* | Requirement Gathering, SDLC, Stakeholder Management |
-  | 🎯 *Soft Skills* | Communication, Problem Solving, Team Collaboration |
-  
-</div>
-
----
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
-## 🚀 Featured Projects
-
-### 1. Daily Workflow Automation
-[![Daily-workflow-](https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=Daily-workflow-&theme=nord&border_color=0ea5e9&text_color=06b6d4&icon_color=0ea5e9)](https://github.com/devbhardwaj0911-crypto/Daily-workflow-)
-
-| Layer | Technology |
-|-------|-----------|
-| Frontend | Streamlit / HTML |
-| Backend | Python |
-| Database | SQLite / PostgreSQL |
-| Automation | Python Scripting |
-
-🔗 [Live Demo](#) • [View Code](https://github.com/devbhardwaj0911-crypto/Daily-workflow-)
-
----
-
-### 2. BRD Automation
-[![BRD-Automation](https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=BRD-Automation&theme=nord&border_color=0ea5e9&text_color=06b6d4&icon_color=0ea5e9)](https://github.com/devbhardwaj0911-crypto/BRD-Automation)
-
-| Layer | Technology |
-|-------|-----------|
-| Document Generation | Python-Docx / ReportLab |
-| Template Engine | Jinja2 |
-| Data Source | Excel / SQL |
-| Automation | Python Scripts |
-
-🔗 [Live Demo](#) • [View Code](https://github.com/devbhardwaj0911-crypto/BRD-Automation)
-
----
-
-### 3. Power BI Sales Dashboards
-[![Power-Bi-sales-Dashboards](https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=Power-Bi-sales-Dashboards&theme=nord&border_color=0ea5e9&text_color=06b6d4&icon_color=0ea5e9)](https://github.com/devbhardwaj0911-crypto/Power-Bi-sales-Dashboards)
-
-| Layer | Technology |
-|-------|-----------|
-| Visualization | Power BI |
-| Data Modeling | Power Query / DAX |
-| Data Source | SQL Server / Excel |
-| ETL | Power Query |
-
-🔗 [Live Demo](#) • [View Code](https://github.com/devbhardwaj0911-crypto/Power-Bi-sales-Dashboards)
-
----
-
-### 4. Dynamic Report Projects
-[![Dynamic-Report-Projects](https://github-readme-stats.vercel.app/api/pin/?username=devbhardwaj0911-crypto&repo=Dynamic-Report-Projects&theme=nord&border_color=0ea5e9&text_color=06b6d4&icon_color=0ea5e9)](https://github.com/devbhardwaj0911-crypto/Dynamic-Report-Projects)
-
-| Layer | Technology |
-|-------|-----------|
-| Reporting | Power BI / Excel |
-| Automation | Python / VBA |
-| Data Pipeline | SQL / Power Query |
-| Dashboarding | Interactive Visuals |
-
-🔗 [Live Demo](#) • [View Code](https://github.com/devbhardwaj0911-crypto/Dynamic-Report-Projects)
-
----
-
-<!-- ==================== TECH STACK BADGES ==================== -->
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-  ### 📊 Analytics & BI
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-  ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-  
-  ### 🤖 Automation & AI
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  
-  ### 📋 Methodologies
-  ![SDLC](https://img.shields.io/badge/SDLC-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
-  ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)
-  ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-  
-</div>
-
----
-
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devbhardwaj0911-crypto&show_icons=true&theme=nord&border_color=0ea5e9&text_color=06b6d4&icon_color=0ea5e9&title_color=0ea5e9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devbhardwaj0911-crypto&layout=compact&theme=nord&border_color=0ea5e9&text_color=06b6d4&title_color=0ea5e9)
-  
-  <!-- Streak Stats -->
-  ![Dev's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devbhardwaj0911-crypto&theme=nord&border=0ea5e9&ring=0ea5e9&fire=06b6d4&currStreakLabel=0ea5e9)
-  
-</div>
-
----
-
-<!-- ==================== TROPHIES ==================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=devbhardwaj0911-crypto&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
-## 📈 Contribution Activity
-
-<div align="center">
-  
-  [![Dev's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devbhardwaj0911-crypto&theme=nord&bg_color=0d1117&color=06b6d4&line=0ea5e9&point=06b6d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
----
-
-<!-- ==================== CONNECT ==================== -->
-## 🤝 Let's Connect
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbhardwaj0911@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-bhardwaj-8b9597329)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbhardwaj0911-crypto)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=devbhardwaj0911-crypto&show_icons=true&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbhardwaj0911-crypto&layout=compact&theme=tokyonight&border_color=38bdf8&title_color=38bdf8" height="170" />
   <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=120&section=footer&animation=twinkling" width="100%"/>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbhardwaj0911-crypto&theme=tokyonight&border=38bdf8&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbhardwaj0911-crypto&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=0284c7&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
 
+<!-- ==================== FOOTER ==================== -->
 <div align="center">
-  <b>💼 Open to Business Analyst Roles | Data Analytics | Process Automation</b>
-  <br/>
-  <i>Let's build something amazing together!</i>
+  <h3>🤝 Let's Connect</h3>
+  <p>📍 Gurugram, Haryana | 📞 +91 9354367748 | ✉️ devbhardwaj0911@gmail.com</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0284c7,100:0f172a&height=110&section=footer" width="100%" />
 </div>
